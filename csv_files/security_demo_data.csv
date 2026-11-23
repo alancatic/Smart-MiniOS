@@ -1,0 +1,4 @@
+Process Number,Burst Time,Request Number,Priority,Size,Location,Resources,UserRole,Name
+1,6,0,2,120,10,A,user,UserProcess
+2,8,1,3,128,50,B,guest,GuestProcess
+3,5,2,1,96,90,C,admin,AdminProcess
